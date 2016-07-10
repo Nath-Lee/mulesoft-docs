@@ -24,7 +24,7 @@ This document assumes you are familiar with the following things:
 
 * The basics of creating a REST API
 * link:https://en.wikipedia.org/wiki/Representational_state_transfer[REST] as a Web service paradigm
-* link:/mule-fundamentals/v/3.7/first-30-minutes-with-mule[Anypoint Studio]
+* link:/mule-fundamentals/v/3.8/first-30-minutes-with-mule[Anypoint Studio]
 * link:/apikit/apikit-basic-anatomy[APIkit Basic Anatomy]
 
 == Prerequisites
